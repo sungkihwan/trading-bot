@@ -1,2 +1,2 @@
-# trading-bot
-trading bot
+# make trading-bot for Financial Freedom
+
